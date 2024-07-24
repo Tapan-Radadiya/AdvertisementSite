@@ -1,0 +1,54 @@
+.featureBox {
+    transition: 0.9s;
+}
+
+.featureBox:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 30px 10px #66b0ff;
+}
+
+.cheatExamDiv {
+    transition: 0.9s;
+}
+
+.cheatExamDiv:hover {
+    box-shadow: 0px 0px 30px 1px #dc3545;
+}
+
+.manageExamsDiv {
+    transition: 0.9s;
+}
+
+.manageExamsDiv:hover {
+    box-shadow: 0px 0px 30px 1px #007bff;
+}
+
+.userReviewDiv {
+    transition: 0.9s;
+}
+
+.userReviewDiv:hover {
+    box-shadow: 0px 0px 30px 5px #28a745;
+}
+
+.visitBtn {
+    transition: 10s;
+}
+
+.visitBtn:hover {
+    box-shadow: 0px 0px 30px 1px #007bff;
+}
+
+.horizontalLine {
+    width: 100%;
+    border-bottom: 1px solid black;
+    line-height: 0.1em;
+    margin: 20px 0 30px;
+}
+
+.horizontalLine span {
+    background-color: #fff;
+    font-weight: 200;
+    padding: 0 10px;
+    box-shadow: 0px 0px 10px 10px white;
+}

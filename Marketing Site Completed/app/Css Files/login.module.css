@@ -1,0 +1,16 @@
+.horizontalLine {
+    width: 100%;
+    border-bottom: 1px solid black;
+    line-height: 0.1em;
+    margin: 20px 0 30px;
+}
+
+.orspan {
+    background-color: #fff;
+    padding: 0 20px;
+    box-shadow: 0px 0px 10px 10px #fff;
+}
+
+.showPass:hover {
+    cursor: pointer;
+}
